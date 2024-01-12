@@ -10,5 +10,5 @@ Pallet编译通过，单元测试通过，node节点可以正常启动;
 [答案链接](https://github.com/cole8401/substrate-advanced/tree/main/lesson2)
 
 ##第三课作业
-[答案链接](https://github.com/cole8401/substrate-advanced/tree/main/lesson2)
+[答案链接](https://github.com/cole8401/substrate-advanced/tree/main/lesson3)
 

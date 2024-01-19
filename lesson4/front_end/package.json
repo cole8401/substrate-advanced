@@ -1,0 +1,21 @@
+{
+    "name": "js-component",
+    "version": "1.0.0",
+    "description": "Demo connecting to Substrate Node",
+    "main": "index.js",
+    "author": "Su Jiyuan",
+    "license": "Unlicense",
+    "private": false,
+    "scripts": {
+        "start": "node --use_strict index.js",
+        "start:dev": "nodemon --use_strict index.js",
+        "start:debug": "nodemon --use_strict index.js"
+    },
+    "dependencies": {
+        "@polkadot/api": "^10.8.1",
+        "@polkadot/util": "^12.3.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}

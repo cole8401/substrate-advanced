@@ -25,3 +25,7 @@ runtime升级，将kitties扩充到8个字节，验证从v0-v1,v1-v2的升级路
 [答案链接](https://github.com/cole8401/substrate-advanced/tree/main/lesson4)
 ***
 
+##第5课作业
+<br/>
+自己完成并部署一个erc20的智能合约<br/>
+[答案链接](https://github.com/cole8401/substrate-advanced/tree/main/lesson5)

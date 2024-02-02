@@ -39,6 +39,6 @@ runtime升级，将kitties扩充到8个字节，验证从v0-v1,v1-v2的升级路
 <br/>
 （附加题）根据 Chain Spec，部署公开测试网络
 <br/>
-备注：附加题只完成部分，部署的节点无法同步区块
+备注：附加题只完成部分：起了4个节点，能侦测到对方。
 <br/>
 [答案链接](https://github.com/cole8401/substrate-advanced/tree/main/lesson6)
